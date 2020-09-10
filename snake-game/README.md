@@ -2,6 +2,8 @@
 
 Este jogo foi produzido usando modelos de aprendizado de máquina na matéria Tópicos Avançados em PO: Resolução de Problemas via Modelagem Matemática.
 
+Para uma célula do jogo snake a ser trinada, foi retirado do repositório [douglas](https://github.com/douglas-cpp/snake) com alterações para treinamento a partir de um arquivo de modelo de rede neural contido na pasta `model`.
+
 # Instalação
 
 1. Baixe o clone do repositório
